@@ -1,0 +1,28 @@
+{
+    "clients": [
+        {
+            "client_id": 1,
+            "name": "Tom Cruise",
+            "dob": "1962-07-03",
+            "balance": 10000,
+            "vip": true,
+            "VIP": true
+        },
+        {
+            "client_id": 2,
+            "name": "Igor",
+            "dob": "1980-04-01",
+            "balance": 14.0,
+            "vip": false,
+            "VIP": false
+        },
+        {
+            "client_id": 3,
+            "name": "Nizar",
+            "dob": "1996-06-27",
+            "balance": 50000000000000.0,
+            "vip": true,
+            "VIP": true
+        }
+    ]
+}
